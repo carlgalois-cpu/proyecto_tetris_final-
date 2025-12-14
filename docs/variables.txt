@@ -1,0 +1,11 @@
+VARIABLES DEL JUEGO:
+○ tablero[20][10] - Matriz del juego
+○ pieza_actual - {tipo, rotación, x, y}
+○ siguiente_pieza - La próxima pieza
+○ juego_activo - true/false
+○ juego_pausado - true/false  
+○ juego_terminado - true/false
+○ puntuación - Número
+○ nivel - Número
+○ líneas_completadas - Número
+○ récord - Número

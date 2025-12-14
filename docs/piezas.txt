@@ -1,0 +1,6 @@
+PIEZA I    PIEZA O    PIEZA T    PIEZA S    PIEZA Z    PIEZA J    PIEZA L
+                              
+  ■          ■ ■        ■          ■ ■        ■ ■        ■          ■
+  ■          ■ ■      ■ ■ ■      ■ ■          ■ ■        ■          ■
+  ■                              ■              ■      ■ ■ ■      ■ ■ ■
+  ■

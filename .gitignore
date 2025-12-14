@@ -1,0 +1,17 @@
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de sistema Linux/Mac
+.DS_Store
+.directory
+
+# Configuración de IDEs (VSCode, etc)
+.vscode/
+.idea/

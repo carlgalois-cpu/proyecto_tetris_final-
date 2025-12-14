@@ -1,0 +1,6 @@
+¿LA PIEZA PUEDE MOVERSE?
+│
+├── ¿Toca el borde izquierdo? → NO mover izquierda
+├── ¿Toca el borde derecho? → NO mover derecha  
+├── ¿Toca el fondo? → Fijar pieza
+└── ¿Choca con otra pieza? → NO mover/rotar
